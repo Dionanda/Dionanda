@@ -1,21 +1,16 @@
 <img height="100%" src="./src/Github-Banner.png">
-<p align='center'>
-    <a href="https://youtube.com/@dionnndasutrsna">
-        <img height="30" src="https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/icon/git-yt.svg">
+
+<div align='center'>
+    <a target="_blank" href="https://twitter.com/dionndasutrsna"><img src="https://img.shields.io/badge/Twitter-020202?style=for-the-badge&logo=X&logoColor=white"></img></a>
+    &nbsp;
+    <a target="_blank" href="https://youtube.com/@dionnndasutrsna"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+    &nbsp;
+    <a target="_blank" href="https://www.linkedin.com/in/dionndasutrsna/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+    &nbsp;
+    <a target="_blank" href="https://www.instagram.com/dionndasutrsna/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
     </a>
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/dionndasutrsna">
-        <img height="30" src="https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/icon/git-tw.svg">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/dionndasutrsna/">
-        <img height="30" src="https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/icon/git-in.svg">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/dionndasutrsna/">
-        <img height="30" src="https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/icon/git-ig.svg">
-    </a>
-</p>
+</div>
 
 <h1 align='center'> 
     Hello there, I'm Dionanda. 
